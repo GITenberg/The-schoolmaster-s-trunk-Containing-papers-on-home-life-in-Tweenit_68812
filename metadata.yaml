@@ -1,0 +1,33 @@
+_repo: The-schoolmaster-s-trunk-Containing-papers-on-home-life-in-Tweenit_68812
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Diaz, Abby Morton
+    aliases:
+    - Diaz, A. M. (Abby Morton)
+    - Diaz, Anna M. (Anna Morton)
+    birthdate: 1821
+    deathdate: 1904
+    gutenberg_agent_id: '2166'
+    url: http://www.gutenberg.org/2009/agents/2166
+    wikipedia: https://en.wikipedia.org/wiki/Abby_Morton_Diaz
+description: ''
+gutenberg_issued: '2022-08-22'
+identifiers:
+  gutenberg: '68812'
+language: en
+pgterms:marc904: https://archive.org/details/schoolmasterstrunk00diaziala/page/n5/mode/2up
+pgterms:marc905: 20220706094445diaz
+pgterms:marc906: '1874'
+pgterms:marc907: US
+production_note: Steve Mattern, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :James R. Osgood and Company,1874,pubdate 1875.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The schoolmaster''s trunk: Containing papers on home-life in Tweenit'
+url: http://www.gutenberg.org/ebooks/68812
